@@ -4,10 +4,9 @@ Unit 3 Assignment – “Py Me Up, Charlie”
 
 For this assignment, there are 2 Python challenges: PyBank and PyPoll. 
 
-		_______________________________________________________________________________________________________		
+		-------------------------------------------------------------------------------------	
 
-
-#PyBank
+PyBank
 
 For this challenge, I need to create a Python script for analyzing the financial records found in the “budge_data.csv” file provided. The dataset is composed of two columns: “Date” and “Profit/Losses.”
 
@@ -31,10 +30,10 @@ Greatest Decrease in Profits: Sep-2013 ($-2196167)
 
 The script should be able to print the analysis to the terminal and export a text file with the results. I have named my text file as “PyBank_Analysis” and it can be found in the PyBank folder. The Python script I created for this challenge will be found in “main.py” under the same folder.
 
-		_______________________________________________________________________________________________________				
+		-------------------------------------------------------------------------------------
       
       
-#PyPoll
+PyPoll
 
 For this challenge, I need to create a Python script for analyzing the poll data in the provided “delection_data.csv” file. The dataset is composed of three columns: Voter ID, County, and Candidate.
 
@@ -47,6 +46,7 @@ The Python script will need to analyze the records and calculate the following:
 5.	The winner of the election based on popular vote
 
 The analysis should look similar to the following:
+
 Election Results
 -------------------------
 Total Votes: 3521001
@@ -63,7 +63,7 @@ The script should also print the analysis to the terminal and export a text file
 
 I have named my text file as “PyPoll_Analysis” and it can be found in the PyPoll folder. The Python script I created for this challenge will be found in “main.py” under the same folder.
 
-		_______________________________________________________________________________________________________		
+		-------------------------------------------------------------------------------------		
 
 
 In order to complete this challenge, I used a lot of online resources as well as materials taught in class. Along with using the activities and materials from GitLab, I also found information using the following sites:
