@@ -18,20 +18,9 @@ The Python script will need to analyze the records and calculate the following:
 4.	The greatest increase in profits (date and amount) over the entire period
 5.	The greatest decrease in losses (date and amount) over the entire period
 
-The analysis should look similar to the following:
-
-Financial Analysis
-----------------------------
-Total Months: 86
-Total: $38382578
-Average  Change: $-2315.12
-Greatest Increase in Profits: Feb-2012 ($1926159)
-Greatest Decrease in Profits: Sep-2013 ($-2196167)
-
 The script should be able to print the analysis to the terminal and export a text file with the results. I have named my text file as “PyBank_Analysis” and it can be found in the PyBank folder. The Python script I created for this challenge will be found in “main.py” under the same folder.
 
 		-------------------------------------------------------------------------------------
-      
       
 PyPoll
 
@@ -45,23 +34,7 @@ The Python script will need to analyze the records and calculate the following:
 4.	The total number of votes each candidate won
 5.	The winner of the election based on popular vote
 
-The analysis should look similar to the following:
-
-Election Results
--------------------------
-Total Votes: 3521001
--------------------------
-Khan: 63.000% (2218231)
-Correy: 20.000% (704200)
-Li: 14.000% (492940)
-O'Tooley: 3.000% (105630)
--------------------------
-Winner: Khan
--------------------------
-
-The script should also print the analysis to the terminal and export a text file with the results.
-
-I have named my text file as “PyPoll_Analysis” and it can be found in the PyPoll folder. The Python script I created for this challenge will be found in “main.py” under the same folder.
+The script should also print the analysis to the terminal and export a text file with the results. I have named my text file as “PyPoll_Analysis” and it can be found in the PyPoll folder. The Python script I created for this challenge will be found in “main.py” under the same folder.
 
 		-------------------------------------------------------------------------------------		
 
